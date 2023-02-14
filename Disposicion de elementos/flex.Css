@@ -1,0 +1,31 @@
+.flex{
+    display: flex;
+    height:300px;
+    flex-wrap: wrap;
+}
+.Contenido-1{
+    background-color: white;
+    width: 300px;
+}
+
+.Contenido-2{
+    background-color: white;
+    width: 300px;
+}
+.Contenido-3{
+    background-color: white;
+    width: 300px;
+}
+
+.Contenido-4{
+    background-color: white;
+    width: 300px;
+}
+.Contenido-5{
+    background-color: white;
+    width: 300px;
+}
+.Contenido-6{
+    background-color: white;
+    width: 300px;
+}
